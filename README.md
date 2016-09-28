@@ -1,5 +1,5 @@
 # repo-star-checker
-Access here : 
+###Demo
 [repo-star-checker](http://gjk0090.github.io/repo-star-checker "repo-star-checker")
-Screenshot : 
+###Screenshot
 ![Alt](/sc.png "demo")
