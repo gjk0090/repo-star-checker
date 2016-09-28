@@ -22,7 +22,7 @@ $scope.repos = [
 ~~~~
 
 ###Todo
-extract repo list to a property file
-use GitHub auth & star from UI
-one click star all
-display repo detail on UI
+* extract repo list to a property file
+* use GitHub auth & star from UI
+* one click star all
+* display repo detail on UI
